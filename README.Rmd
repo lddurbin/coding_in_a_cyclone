@@ -21,3 +21,14 @@ These are the slides for my talk at [posit::conf(2024)](https://posit.co/confere
 ## Links
 
 * [R For Data Science](https://r4ds.hadley.nz/)
+* [R For the Rest of Us](https://rfortherestofus.com/)
+* [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
+* [Dave Robinson's Tidy Tuesday screencasts](https://www.youtube.com/@safe4democracy)
+* [Ross Ihaka profile on TV](https://www.teaonews.co.nz/2022/04/12/statistics-legend-ross-ihaka-reflects-on-his-revolutionary-software/)
+* [R for Data Science](https://r4ds.hadley.nz/)
+* [ohwhaley](https://fontikar.github.io/ohwhaley/)
+* [Building Tidy Tools](https://rstudio-conf-2022.github.io/build-tidy-tools/)
+* [R Packages](https://r-pkgs.org/)
+* [FAAFO](https://x.com/rogerskaer/status/1576025818182332416?lang=en)
+* [CoRecursive podcast episode: Navigating Corporate Giants](https://corecursive.com/building-powershell-with-jeffrey-snover/)
+* [packagepal](https://cran.r-project.org/web/packages/packagepal/index.html)
