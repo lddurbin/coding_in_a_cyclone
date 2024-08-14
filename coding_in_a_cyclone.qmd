@@ -1,0 +1,103 @@
+---
+title: "Coding in a Cyclone"
+subtitle: "Open source and the public sector in the birthplace of R"
+author: "Lee Durbin | Auckland Council"
+format: revealjs
+---
+
+## 
+
+![](images/welsh_flag.svg){fig-align="center"}
+
+## 
+
+![](images/Flag_of_New_Zealand.svg){fig-align="center"}
+
+## 
+
+![](images/auckland.jpg){fig-align="center"}
+
+## 
+
+![](images/profile_pic_preferred.png){fig-align="center"}
+
+## 
+
+![](images/jacinda.jpg){fig-align="center"}
+
+## 
+
+![](images/airport_floods.avif){fig-align="center"}
+
+## 
+
+![](images/cyclone.jpg){fig-align="center"}
+
+# Proficiency
+
+DELIVERING QUALITY AT PACE
+
+## 
+
+![](images/ross_ihaka.png){fig-align="center"}
+
+## 
+
+![](images/r4ds.jpg){fig-align="center"}
+
+## 
+
+![](images/is_it_worth_the_time.png){fig-align="center"}
+
+## 
+
+![](images/r_packages_book.png){fig-align="center"}
+
+# Business Value
+
+ADVANCING THE ORGANISATION'S MISSION
+
+## 
+
+![](images/auckland_council.jpg){fig-align="center"}
+
+## 
+
+![](images/pointless_box.gif){fig-align="center"}
+
+##
+
+![](images/FAAFO.png){fig-align="center"}
+
+# Sustainability
+
+NOW AND INTO THE FUTURE
+
+##
+
+![](images/share.jpg){fig-align="center"}
+
+##
+
+![](images/why_code.jpg){fig-align="center"}
+
+# And so...
+
+# A mature data culture is based on proficiency, business value, and sustainability
+
+# But remember...
+
+# Proficiency takes time and practice
+
+# Business value is important, but increasing proficiency sometimes comes at the expense of delivering value (and that’s ok)
+
+# Sustainability is a choice that puts the needs of our communities ahead of our own
+
+## Thanks!
+
+Slides available on my [GitHub](https://github.com/)
+
+
+Scan below to find me elsewhere 👇
+
+![](images/lddurbin.png){fig-align="center"}

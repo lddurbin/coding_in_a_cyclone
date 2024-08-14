@@ -1,0 +1,4 @@
+- source: coding_in_a_cyclone.qmd
+  netlify:
+    - id: 59aaf8e0-f121-4d1d-bc48-1da5fe0cce22
+      url: 'https://effervescent-yeot-53625b.netlify.app'
